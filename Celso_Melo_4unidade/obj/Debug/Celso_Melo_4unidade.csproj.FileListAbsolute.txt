@@ -1,0 +1,6 @@
+C:\Users\LUANA\documents\visual studio 2013\Projects\Celso_Melo_4unidade\Celso_Melo_4unidade\bin\Celso_Melo_4unidade.dll.config
+C:\Users\LUANA\documents\visual studio 2013\Projects\Celso_Melo_4unidade\Celso_Melo_4unidade\bin\Celso_Melo_4unidade.dll
+C:\Users\LUANA\documents\visual studio 2013\Projects\Celso_Melo_4unidade\Celso_Melo_4unidade\bin\Celso_Melo_4unidade.pdb
+C:\Users\LUANA\documents\visual studio 2013\Projects\Celso_Melo_4unidade\Celso_Melo_4unidade\obj\Debug\Celso_Melo_4unidade.csprojResolveAssemblyReference.cache
+C:\Users\LUANA\documents\visual studio 2013\Projects\Celso_Melo_4unidade\Celso_Melo_4unidade\obj\Debug\Celso_Melo_4unidade.dll
+C:\Users\LUANA\documents\visual studio 2013\Projects\Celso_Melo_4unidade\Celso_Melo_4unidade\obj\Debug\Celso_Melo_4unidade.pdb
